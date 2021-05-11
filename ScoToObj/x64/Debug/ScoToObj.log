@@ -1,0 +1,7 @@
+﻿  ScoToObj.cpp
+W:\github\Mount-and-Blade-Tools\ScoToObj\ScoToObj.cpp(22,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\ScoToObj\ScoToObj.cpp(109,21): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+W:\github\Mount-and-Blade-Tools\ScoToObj\ScoToObj.cpp(110,21): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+W:\github\Mount-and-Blade-Tools\ScoToObj\ScoToObj.cpp(131,54): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
+W:\github\Mount-and-Blade-Tools\ScoToObj\ScoToObj.cpp(86,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ScoToObj.vcxproj -> W:\github\Mount-and-Blade-Tools\Debug\ScoToObj.exe

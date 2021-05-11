@@ -1,0 +1,10 @@
+﻿  PngSco.cpp
+W:\github\Mount-and-Blade-Tools\PngSco\PngSco.cpp(125,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\PngSco\PngSco.cpp(127,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\PngSco\PngSco.cpp(137,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\PngSco\PngSco.cpp(138,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\PngSco\PngSco.cpp(149,17): warning C4996: '_strupr': This function or variable may be unsafe. Consider using _strupr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\PngSco\PngSco.cpp(151,13): warning C4996: '_strupr': This function or variable may be unsafe. Consider using _strupr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\PngSco\PngSco.cpp(159,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\PngSco\PngSco.cpp(161,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PngSco.vcxproj -> W:\github\Mount-and-Blade-Tools\Debug\PngSco.exe

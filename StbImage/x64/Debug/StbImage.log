@@ -1,0 +1,13 @@
+﻿  stb_image.c
+W:\github\Mount-and-Blade-Tools\StbImage\stb_image.c(226,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\StbImage\stb_image.c(288,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\StbImage\stb_image.c(326,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\StbImage\stb_image.c(428,1): warning C4244: "Initialisierung": Konvertierung von "__int64" in "int", möglicher Datenverlust
+W:\github\Mount-and-Blade-Tools\StbImage\stb_image.c(441,1): warning C4244: "Initialisierung": Konvertierung von "__int64" in "int", möglicher Datenverlust
+W:\github\Mount-and-Blade-Tools\StbImage\stb_image.c(4280,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  stb_image_write.c
+W:\github\Mount-and-Blade-Tools\StbImage\stb_image_write.c(84,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\StbImage\stb_image_write.c(249,1): warning C4244: "Initialisierung": Konvertierung von "__int64" in "int", möglicher Datenverlust
+W:\github\Mount-and-Blade-Tools\StbImage\stb_image_write.c(424,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Code wird generiert...
+  StbImage.vcxproj -> W:\github\Mount-and-Blade-Tools\Debug\StbImage.lib

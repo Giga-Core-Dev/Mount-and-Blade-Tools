@@ -1,0 +1,8 @@
+﻿  ScoPng.cpp
+W:\github\Mount-and-Blade-Tools\ScoPng\ScoPng.cpp(81,79): warning C4244: "=": Konvertierung von "float" in "unsigned char", möglicher Datenverlust
+W:\github\Mount-and-Blade-Tools\ScoPng\ScoPng.cpp(67,20): warning C4996: '_strupr': This function or variable may be unsafe. Consider using _strupr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\ScoPng\ScoPng.cpp(127,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\ScoPng\ScoPng.cpp(128,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\ScoPng\ScoPng.cpp(134,13): warning C4996: '_strupr': This function or variable may be unsafe. Consider using _strupr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\github\Mount-and-Blade-Tools\ScoPng\ScoPng.cpp(140,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ScoPng.vcxproj -> W:\github\Mount-and-Blade-Tools\Debug\ScoPng.exe
